@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EliottFrog
-- 👀 I’m interested in improving my skils in web development, playing video games, reading and spend times with my dog.
+- 👀 I’m interested in improving my skills in web development, playing video games, reading and spend times with my dog.
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on open source project or individual project
 - 📫 How to reach me : eliott.dev.contact@gmail.com
